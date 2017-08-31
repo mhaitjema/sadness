@@ -1,5 +1,5 @@
 # sadness
-meditations on stupidity
+a repository for meditations on my own stupidity
 
 ## sudo
 
