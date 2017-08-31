@@ -5,7 +5,7 @@ a repository for meditations on my own stupidity
 
 At work, we have a game called "teapotting" wherein if someone walks away from an unlocked computer, you send an email to the teapots@ alias which announces that you need the rock of shame.  In this game, key loggers (hard or soft) are forbidden.
 
-Some of our teapotting games are getting out of control.  One of our users accidentally leaked his password (and a pretty poor one, at that) by typing it into hipchat.  Someone else immediately ssh’d into his system and grabbed his ssh keys when they saw that.  Since he was using passphrase-less keys (doh) -or- useing his login for the keys (oops) (I don't recall), this worked out.   They had gone from access and time to persistence and authority in one step.
+Some of our teapotting games are getting out of control.  One of our users accidentally leaked his password (and a pretty poor one, at that) by typing it into hipchat.  Someone else immediately ssh’d into his system and grabbed his ssh keys when they saw that.  Since he was using passphrase-less keys (doh) -or- using his login for the keys (oops) (I don't recall), this worked out.   They had gone from access and time to persistence and authority in one step.
 
 ![needs](https://raw.githubusercontent.com/rsr-at-mindtwin/sadness/master/attacker%20hierarchy%20of%20needs.png)
 
