@@ -1,0 +1,2 @@
+# sadness
+meditations on stupidity
