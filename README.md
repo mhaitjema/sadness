@@ -15,4 +15,4 @@ Meanwhile, the guilty parties tried various means to use their ssh access to sen
 
 Getting the password is easy if you lay a trap and are patient.  So I wrote this script for them in about ten minutes and after being deployed for about 3 weeks, it worked.  No need for fancy ptys or anything else.  Sadly his new password is so bad that I believe they could have brute forced it if they wanted.
 
-Now, this is a dirty trick and I feel guilty about it.  I'm probably going to let the guy know but I only want to do that if he doesn't leak about what he knows (and how).  If only people could be trusted.
+Now, this is a dirty trick and I feel guilty about it.  I'm probably going to let the guy know but I only want to do that if he doesn't leak about what he knows (and how).  If only people could be trusted :-b.
