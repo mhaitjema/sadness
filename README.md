@@ -11,6 +11,6 @@ They used the stolen password to send a mail to the teapots@ alias by using remo
 
 Meanwhile, the guilty parties tried various means to use their ssh access to send an email.  But because AppleScript doesn’t work from the command line, being garbage and mostly unsupported at this point, attempts to do that mostly just hanged and otherwise fucked up.  So they were stuck: without the password, they can't remote desktop, without remote desktop, they can't send a mail.  They’ve been trying to get access to his password again but are stuck.
 
-Getting the password is easy if you lay a trap and are patient.  So I wrote this script for them and after about 3 weeks, it worked.
+Getting the password is easy if you lay a trap and are patient.  So I wrote this script for them in about ten minutes and after being deployed for about 3 weeks, it worked.  No need for fancy ptys or anything else.
 
 Now, this is a dirty trick and I feel guilty about it.  I'm probably going to let the guy know but I only want to do that if he doesn't leak about what he knows (and how).  If only people could be trusted.
